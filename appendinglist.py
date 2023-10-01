@@ -1,5 +1,8 @@
 l=[]
-n = int(input("Enter number of elements:")
+#we can use a precreated list too
+#l=[11,12,13,14,15]
+
+n = int(input("Enter number of elements:"))
 for i in range(0,n):
   e = int(input("Enter element:"))
   l[i] = e
