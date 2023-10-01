@@ -2,7 +2,7 @@ print("traversing a list")
 a=['a','b','c','d']
 print("Using For Loop")
 for i in a:
-  print(a[i])
+  print(i)
 
 print("Using While Loop")
 l=len(a)
