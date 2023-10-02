@@ -8,6 +8,7 @@
 | `1` | `Appending numbers in a list` | 
 | `2` | `Traversing in a list` | 
 | `3` | `Popping a number from a list` | 
+| `4` | `Find the Maximum and Minimum in a List` | 
 
   
 <h2>🧐 Features</h2>
