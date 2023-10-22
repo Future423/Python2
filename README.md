@@ -1,8 +1,5 @@
 <h1 align="center" id="title">PyThon2</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Future423/Python2/image?description=1&amp;font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;theme=Auto" alt="project-image"></p>
-
-
 | Q No. |     Description    |
 | :-------- | :------- |
 | `1` | `Appending numbers in a list` |
