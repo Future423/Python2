@@ -5,11 +5,14 @@
 
 | Q No. |     Description    |
 | :-------- | :------- |
-| `1` | `Appending numbers in a list` | 
-| `2` | `Traversing in a list` | 
-| `3` | `Popping a number from a list` | 
+| `1` | `Appending numbers in a list` |
+| `2` | `Simple Linked List` |
+| `3` | `Traversing in a list` | 
 | `4` | `Find the Maximum and Minimum in a List` | 
-| `5` | `Stack Operations` | 
+| `5` | `Popping a number from a list` | 
+| `6` | `Simple Queue` |
+| `7` | `Simple Stack` | 
+| `8` | `Web Scrapping` |
 
   
 <h2>🧐 Features</h2>
